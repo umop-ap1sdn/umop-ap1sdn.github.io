@@ -1,0 +1,20 @@
+div {
+    font-style: italic;
+}
+
+.blue {
+    color: blue;
+}
+
+#underline {
+    text-decoration: underline;
+}
+
+a:hover {
+    font-size: 10pc;
+}
+
+.box {
+    padding: 20px;
+    border: 2px solid black;
+}
